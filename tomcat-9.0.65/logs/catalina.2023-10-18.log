@@ -1,0 +1,7 @@
+18-Oct-2023 10:21:25.600 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [682] milliseconds
+18-Oct-2023 10:28:30.527 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [424920] milliseconds
+18-Oct-2023 10:30:26.413 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [616] milliseconds
+18-Oct-2023 10:35:48.150 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [321731] milliseconds
+18-Oct-2023 12:08:36.770 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [827] milliseconds
+18-Oct-2023 12:17:49.581 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [563374] milliseconds
+18-Oct-2023 18:27:10.634 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer Could not contact [localhost:8005] (base port [8005] and offset [0]). Tomcat may not be running.
