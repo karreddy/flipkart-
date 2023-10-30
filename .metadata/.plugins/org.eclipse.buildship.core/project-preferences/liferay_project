@@ -1,0 +1,12 @@
+#
+#Wed Oct 18 18:27:38 IST 2023
+derivedResources=.gradle;build;modules/build;modules/testportlet/build;modules/testservicebuilder/build;modules/testservicebuilder/testservicebuilder-api/build;modules/testservicebuilder/testservicebuilder-service/build
+linkedResources=
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+managedNatures=org.eclipse.jdt.core.javanature
+buildDir=build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildScriptPath=build.gradle
+subprojectPaths=modules;modules/testportlet;modules/testservicebuilder;modules/testservicebuilder/testservicebuilder-api;modules/testservicebuilder/testservicebuilder-service
+hasAutoBuildTasks=false
+gradleVersion=6.6.1

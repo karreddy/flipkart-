@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\liferay_74\liferay-dxp-7.4.13.u52\.metadata\.plugins\org.eclipse.jdt.core
+1121307908.index
+3167230074.index
+1285633640.index
+2786045598.index
+3970499567.index
+3042411480.index

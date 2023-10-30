@@ -1,0 +1,12 @@
+#
+#Wed Oct 18 18:27:38 IST 2023
+derivedResources=.gradle;build;testportlet/build;testservicebuilder/build;testservicebuilder/testservicebuilder-api/build;testservicebuilder/testservicebuilder-service/build
+linkedResources=
+classpath=<?xml version\="1.0" encoding\="UTF-8"?>\n<classpath>\n</classpath>\n
+managedNatures=
+buildDir=build
+managedBuilders=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><commands/>
+buildScriptPath=build.gradle
+subprojectPaths=testportlet;testservicebuilder;testservicebuilder/testservicebuilder-api;testservicebuilder/testservicebuilder-service
+hasAutoBuildTasks=false
+gradleVersion=6.6.1
