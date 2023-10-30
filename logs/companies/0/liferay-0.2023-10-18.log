@@ -1,0 +1,115 @@
+2023-10-18 10:21:27.578 INFO  [main][PortalContextLoaderListener:123] JVM arguments: --add-opens=jdk.zipfs/jdk.nio.zipfs=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Djava.util.logging.config.file=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\conf\logging.properties -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Djdk.tls.ephemeralDHKeySize=2048 -Djava.protocol.handler.pkgs=org.apache.catalina.webresources -Dfile.encoding=UTF-8 -Djava.locale.providers=JRE,COMPAT,CLDR -Djava.net.preferIPv4Stack=true -Duser.timezone=GMT -Xms2560m -Xmx2560m -XX:MaxNewSize=1536m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m -XX:NewSize=1536m -XX:SurvivorRatio=7 -Dignore.endorsed.dirs= -Dcatalina.base=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65 -Dcatalina.home=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65 -Djava.io.tmpdir=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\temp
+2023-10-18 10:24:59.978 WARN  [main][DialectDetector:82] Liferay is configured to use Hypersonic as its database. Do NOT use Hypersonic in production. Hypersonic is an embedded database useful for development and demonstration purposes. The database settings can be changed in portal-ext.properties.
+2023-10-18 10:24:59.980 INFO  [main][DialectDetector:153] Using dialect com.liferay.portal.dao.orm.hibernate.HSQLDialect for HSQL Database Engine 2.3
+2023-10-18 10:25:06.534 INFO  [main][ModuleFrameworkImpl:1285] Starting initial bundles
+2023-10-18 10:25:14.294 INFO  [ModuleFramework-Static-Bundles-2][InterpolationConfigurationPlugin:109] Configured directory for secrets: D:/liferay_74/liferay-dxp-7.4.13.u52/osgi/configs
+2023-10-18 10:25:21.080 INFO  [main][ModuleFrameworkImpl:1584] Started initial bundles
+2023-10-18 10:25:21.081 INFO  [main][ModuleFrameworkImpl:1633] Starting dynamic bundles
+2023-10-18 10:26:41.422 INFO  [main][ModuleFrameworkImpl:1656] Started dynamic bundles
+2023-10-18 10:26:41.424 INFO  [main][ModuleFrameworkImpl:1663] Starting web bundles
+2023-10-18 10:26:56.504 INFO  [main][ModuleFrameworkImpl:1717] Started web bundles
+2023-10-18 10:26:56.512 INFO  [main][ModuleFrameworkImpl:279] Navigate to Control Panel > System > Gogo Shell and enter "lb" to see all bundles
+2023-10-18 10:27:03.850 WARN  [main][SidecarManager:103] Liferay automatically starts a child process of Elasticsearch named sidecar for convenient development and demonstration purposes. Do NOT use sidecar in production. Refer to the documentation for details on the limitations of sidecar and instructions on configuring a remote Elasticsearch connection in the Control Panel.
+2023-10-18 10:27:29.508 INFO  [main][Sidecar:119] Sidecar Elasticsearch liferay started at 127.0.0.1:9201
+2023-10-18 10:27:45.009 INFO  [main][StartupHelperUtil:83] There are no patches installed
+2023-10-18 10:27:45.340 INFO  [main][LoggingTimer:83] Starting com.liferay.portal.events.StartupHelperUtil#initResourceActions
+2023-10-18 10:27:45.390 INFO  [main][LoggingTimer:44] Completed com.liferay.portal.events.StartupHelperUtil#initResourceActions in 50 ms
+2023-10-18 10:27:45.838 INFO  [main][LicenseManager:-1] Failed to find directory D:\liferay_74\liferay-dxp-7.4.13.u52\data\license
+2023-10-18 10:27:45.840 INFO  [main][LicenseManager:-1] No binary licenses found
+2023-10-18 10:27:46.824 INFO  [main][AutoDeployDir:176] Auto deploy scanner started for D:\liferay_74\liferay-dxp-7.4.13.u52\deploy
+2023-10-18 10:28:04.150 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2023-10-18 10:28:04.357 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for dialect-theme is available for use
+2023-10-18 10:28:04.544 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for minium-theme is available for use
+2023-10-18 10:28:04.744 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for speedwell-theme is available for use
+2023-10-18 10:28:04.918 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2023-10-18 10:30:28.348 INFO  [main][PortalContextLoaderListener:123] JVM arguments: --add-opens=jdk.zipfs/jdk.nio.zipfs=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Djava.util.logging.config.file=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\conf\logging.properties -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Djdk.tls.ephemeralDHKeySize=2048 -Djava.protocol.handler.pkgs=org.apache.catalina.webresources -Dfile.encoding=UTF-8 -Djava.locale.providers=JRE,COMPAT,CLDR -Djava.net.preferIPv4Stack=true -Duser.timezone=GMT -Xms2560m -Xmx2560m -XX:MaxNewSize=1536m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m -XX:NewSize=1536m -XX:SurvivorRatio=7 -Dignore.endorsed.dirs= -Dcatalina.base=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65 -Dcatalina.home=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65 -Djava.io.tmpdir=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\temp
+2023-10-18 10:30:30.105 INFO  [main][JarUtil:46] Downloading https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.29/mysql-connector-java-8.0.29.jar to D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\webapps\ROOT\WEB-INF\shielded-container-lib\mysql.jar
+2023-10-18 10:30:33.728 INFO  [main][JarUtil:65] Downloaded https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.29/mysql-connector-java-8.0.29.jar to D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\webapps\ROOT\WEB-INF\shielded-container-lib\mysql.jar
+2023-10-18 10:30:33.729 INFO  [main][JarUtil:78] Installing D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\webapps\ROOT\WEB-INF\shielded-container-lib\mysql.jar to com.liferay.shielded.container.internal.ShieldedContainerClassLoader@55e8ec2f
+2023-10-18 10:30:33.731 INFO  [main][JarUtil:86] Installed D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\webapps\ROOT\WEB-INF\shielded-container-lib\mysql.jar to com.liferay.shielded.container.internal.ShieldedContainerClassLoader@55e8ec2f
+2023-10-18 10:30:34.507 INFO  [main][DialectDetector:153] Using dialect org.hibernate.dialect.MySQL8Dialect for MySQL 8.0
+2023-10-18 10:30:34.561 INFO  [main][DBInitUtil:143] Create tables and populate with default data
+2023-10-18 10:31:33.447 INFO  [main][ModuleFrameworkImpl:1285] Starting initial bundles
+2023-10-18 10:31:34.059 INFO  [ModuleFramework-Static-Bundles-1][InterpolationConfigurationPlugin:109] Configured directory for secrets: D:/liferay_74/liferay-dxp-7.4.13.u52/osgi/configs
+2023-10-18 10:31:36.620 INFO  [main][ModuleFrameworkImpl:1584] Started initial bundles
+2023-10-18 10:31:36.621 INFO  [main][ModuleFrameworkImpl:1633] Starting dynamic bundles
+2023-10-18 10:31:53.939 INFO  [main][ModuleFrameworkImpl:1656] Started dynamic bundles
+2023-10-18 10:31:53.940 INFO  [main][ModuleFrameworkImpl:1663] Starting web bundles
+2023-10-18 10:31:57.006 INFO  [main][ModuleFrameworkImpl:1717] Started web bundles
+2023-10-18 10:31:57.007 INFO  [main][ModuleFrameworkImpl:279] Navigate to Control Panel > System > Gogo Shell and enter "lb" to see all bundles
+2023-10-18 10:32:03.013 WARN  [main][SidecarManager:103] Liferay automatically starts a child process of Elasticsearch named sidecar for convenient development and demonstration purposes. Do NOT use sidecar in production. Refer to the documentation for details on the limitations of sidecar and instructions on configuring a remote Elasticsearch connection in the Control Panel.
+2023-10-18 10:32:20.160 INFO  [main][Sidecar:119] Sidecar Elasticsearch liferay started at 127.0.0.1:9201
+2023-10-18 10:32:31.367 INFO  [main][StartupHelperUtil:83] There are no patches installed
+2023-10-18 10:32:31.456 INFO  [main][LoggingTimer:83] Starting com.liferay.portal.events.StartupHelperUtil#initResourceActions
+2023-10-18 10:32:31.752 INFO  [main][LoggingTimer:44] Completed com.liferay.portal.events.StartupHelperUtil#initResourceActions in 297 ms
+2023-10-18 10:32:32.072 INFO  [main][LicenseManager:-1] Failed to find directory D:\liferay_74\liferay-dxp-7.4.13.u52\data\license
+2023-10-18 10:32:32.073 INFO  [main][LicenseManager:-1] No binary licenses found
+2023-10-18 10:32:32.651 INFO  [main][AutoDeployDir:176] Auto deploy scanner started for D:\liferay_74\liferay-dxp-7.4.13.u52\deploy
+2023-10-18 10:33:53.734 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:77] Verifying com.liferay.commerce.account.internal.verify.CommerceAccountServiceVerifyProcess
+2023-10-18 10:33:53.743 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:83] Starting com.liferay.commerce.account.internal.verify.CommerceAccountServiceVerifyProcess#verifyAccountRoles
+2023-10-18 10:33:54.978 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:44] Completed com.liferay.commerce.account.internal.verify.CommerceAccountServiceVerifyProcess#verifyAccountRoles in 1236 ms
+2023-10-18 10:33:54.982 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:83] Starting com.liferay.commerce.account.internal.verify.CommerceAccountServiceVerifyProcess#verifyAccountGroup
+2023-10-18 10:33:54.986 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:44] Completed com.liferay.commerce.account.internal.verify.CommerceAccountServiceVerifyProcess#verifyAccountGroup in 3 ms
+2023-10-18 10:33:54.987 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:90] Completed verification process com.liferay.commerce.account.internal.verify.CommerceAccountServiceVerifyProcess in 1255 ms
+2023-10-18 10:34:05.298 INFO  [Portal Dependency Manager Component Executor--1][UpgradeProcess:127] Upgrading com.liferay.portal.search.tuning.rankings.web.internal.upgrade.v1_0_0.RankingsDatabaseImporterUpgradeProcess
+2023-10-18 10:34:05.406 INFO  [Portal Dependency Manager Component Executor--1][UpgradeProcess:145] Completed upgrade process com.liferay.portal.search.tuning.rankings.web.internal.upgrade.v1_0_0.RankingsDatabaseImporterUpgradeProcess in 109 ms
+2023-10-18 10:34:05.511 INFO  [Portal Dependency Manager Component Executor--1][UpgradeProcess:127] Upgrading com.liferay.portal.search.tuning.synonyms.web.internal.upgrade.v1_0_0.SynonymSetsDatabaseImporterUpgradeProcess
+2023-10-18 10:34:05.598 INFO  [Portal Dependency Manager Component Executor--1][UpgradeProcess:145] Completed upgrade process com.liferay.portal.search.tuning.synonyms.web.internal.upgrade.v1_0_0.SynonymSetsDatabaseImporterUpgradeProcess in 87 ms
+2023-10-18 10:34:06.380 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2023-10-18 10:34:06.727 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for dialect-theme is available for use
+2023-10-18 10:34:07.072 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for minium-theme is available for use
+2023-10-18 10:34:07.409 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for speedwell-theme is available for use
+2023-10-18 10:34:07.714 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2023-10-18 10:34:09.123 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:77] Verifying com.liferay.portal.security.service.access.policy.internal.verify.SAPServiceVerifyProcess
+2023-10-18 10:34:09.125 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:83] Starting com.liferay.portal.security.service.access.policy.internal.verify.SAPServiceVerifyProcess#verifyDefaultSAPEntry
+2023-10-18 10:34:09.176 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:44] Completed com.liferay.portal.security.service.access.policy.internal.verify.SAPServiceVerifyProcess#verifyDefaultSAPEntry in 52 ms
+2023-10-18 10:34:09.177 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:90] Completed verification process com.liferay.portal.security.service.access.policy.internal.verify.SAPServiceVerifyProcess in 54 ms
+2023-10-18 10:34:12.274 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:77] Verifying com.liferay.commerce.product.internal.verify.CommerceProductServiceVerifyProcess
+2023-10-18 10:34:12.275 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:83] Starting com.liferay.commerce.product.internal.verify.CommerceProductServiceVerifyProcess#verifyCPMeasurementUnits
+2023-10-18 10:34:12.363 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:44] Completed com.liferay.commerce.product.internal.verify.CommerceProductServiceVerifyProcess#verifyCPMeasurementUnits in 88 ms
+2023-10-18 10:34:12.364 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:90] Completed verification process com.liferay.commerce.product.internal.verify.CommerceProductServiceVerifyProcess in 90 ms
+2023-10-18 10:34:50.845 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:77] Verifying com.liferay.commerce.price.list.internal.verify.CommercePriceListServiceVerifyProcess
+2023-10-18 10:34:50.856 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:83] Starting com.liferay.commerce.price.list.internal.verify.CommercePriceListServiceVerifyProcess#verifyBasePriceLists
+2023-10-18 10:34:50.868 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:44] Completed com.liferay.commerce.price.list.internal.verify.CommercePriceListServiceVerifyProcess#verifyBasePriceLists in 13 ms
+2023-10-18 10:34:50.869 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:90] Completed verification process com.liferay.commerce.price.list.internal.verify.CommercePriceListServiceVerifyProcess in 25 ms
+2023-10-18 10:35:14.759 INFO  [Portal Dependency Manager Component Executor--1][UpgradeProcess:127] Upgrading com.liferay.adaptive.media.document.library.thumbnails.internal.upgrade.v1_0_0.DocumentLibraryThumbnailsConfigurationUpgradeProcess
+2023-10-18 10:35:14.760 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:83] Starting com.liferay.adaptive.media.document.library.thumbnails.internal.upgrade.v1_0_0.DocumentLibraryThumbnailsConfigurationUpgradeProcess#doUpgrade
+2023-10-18 10:35:14.791 INFO  [Portal Dependency Manager Component Executor--1][LoggingTimer:44] Completed com.liferay.adaptive.media.document.library.thumbnails.internal.upgrade.v1_0_0.DocumentLibraryThumbnailsConfigurationUpgradeProcess#doUpgrade in 30 ms
+2023-10-18 10:35:14.792 INFO  [Portal Dependency Manager Component Executor--1][UpgradeProcess:145] Completed upgrade process com.liferay.adaptive.media.document.library.thumbnails.internal.upgrade.v1_0_0.DocumentLibraryThumbnailsConfigurationUpgradeProcess in 33 ms
+2023-10-18 10:35:32.026 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:77] Verifying com.liferay.search.experiences.internal.verify.SXPServiceVerifyProcess
+2023-10-18 10:35:42.209 INFO  [Portal Dependency Manager Component Executor--1][VerifyProcess:90] Completed verification process com.liferay.search.experiences.internal.verify.SXPServiceVerifyProcess in 10183 ms
+2023-10-18 10:36:58.646 INFO  [com.liferay.portal.kernel.deploy.auto.AutoDeployScanner][AutoDeployDir:238] Processing activation-key-dxpdevelopment-7.4-developeractivationkeys (1).xml
+2023-10-18 10:37:06.080 INFO  [fileinstall-directory-watcher][LicenseManager:-1] DXP Development license validation passed
+2023-10-18 10:37:06.081 INFO  [fileinstall-directory-watcher][LicenseManager:-1] License registered for DXP Development
+2023-10-18 10:52:06.108 INFO  [fileinstall-directory-watcher][BundleStartStopLogger:77] STARTED testportlet_1.0.0 [1684]
+2023-10-18 10:56:21.239 INFO  [fileinstall-directory-watcher][BundleStartStopLogger:77] STARTED testservicebuilder.api_1.0.0 [1685]
+2023-10-18 10:56:27.855 INFO  [fileinstall-directory-watcher][BundleStartStopLogger:77] STARTED testservicebuilder.service_1.0.0 [1686]
+2023-10-18 12:08:46.919 INFO  [main][PortalContextLoaderListener:123] JVM arguments: --add-opens=jdk.zipfs/jdk.nio.zipfs=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED -Djava.util.logging.config.file=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\conf\logging.properties -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Djdk.tls.ephemeralDHKeySize=2048 -Djava.protocol.handler.pkgs=org.apache.catalina.webresources -Dfile.encoding=UTF-8 -Djava.locale.providers=JRE,COMPAT,CLDR -Djava.net.preferIPv4Stack=true -Duser.timezone=GMT -Xms2560m -Xmx2560m -XX:MaxNewSize=1536m -XX:MaxMetaspaceSize=768m -XX:MetaspaceSize=768m -XX:NewSize=1536m -XX:SurvivorRatio=7 -Dignore.endorsed.dirs= -Dcatalina.base=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65 -Dcatalina.home=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65 -Djava.io.tmpdir=D:\liferay_74\liferay-dxp-7.4.13.u52\tomcat-9.0.65\temp
+2023-10-18 12:12:55.064 INFO  [main][DialectDetector:153] Using dialect org.hibernate.dialect.MySQL8Dialect for MySQL 8.0
+2023-10-18 12:12:59.949 INFO  [main][ModuleFrameworkImpl:1285] Starting initial bundles
+2023-10-18 12:13:01.272 INFO  [ModuleFramework-Static-Bundles-4][InterpolationConfigurationPlugin:109] Configured directory for secrets: D:/liferay_74/liferay-dxp-7.4.13.u52/osgi/configs
+2023-10-18 12:13:12.313 INFO  [main][ModuleFrameworkImpl:1584] Started initial bundles
+2023-10-18 12:13:12.314 INFO  [main][ModuleFrameworkImpl:1633] Starting dynamic bundles
+2023-10-18 12:14:25.722 INFO  [main][ModuleFrameworkImpl:1656] Started dynamic bundles
+2023-10-18 12:14:25.723 INFO  [main][ModuleFrameworkImpl:1663] Starting web bundles
+2023-10-18 12:14:37.493 INFO  [main][ModuleFrameworkImpl:1717] Started web bundles
+2023-10-18 12:14:37.505 INFO  [main][ModuleFrameworkImpl:279] Navigate to Control Panel > System > Gogo Shell and enter "lb" to see all bundles
+2023-10-18 12:14:48.908 WARN  [main][SidecarManager:103] Liferay automatically starts a child process of Elasticsearch named sidecar for convenient development and demonstration purposes. Do NOT use sidecar in production. Refer to the documentation for details on the limitations of sidecar and instructions on configuring a remote Elasticsearch connection in the Control Panel.
+2023-10-18 12:16:56.937 INFO  [main][Sidecar:119] Sidecar Elasticsearch liferay started at 127.0.0.1:9201
+2023-10-18 12:17:03.211 WARN  [HikariPool-1 housekeeper][HikariPool:788] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m49s460ms702µs200ns).
+2023-10-18 12:17:08.713 WARN  [HikariPool-2 housekeeper][HikariPool:788] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m49s498ms47µs100ns).
+2023-10-18 12:17:13.017 INFO  [main][StartupHelperUtil:83] There are no patches installed
+2023-10-18 12:17:13.275 INFO  [main][LoggingTimer:83] Starting com.liferay.portal.events.StartupHelperUtil#initResourceActions
+2023-10-18 12:17:13.325 INFO  [main][LoggingTimer:44] Completed com.liferay.portal.events.StartupHelperUtil#initResourceActions in 50 ms
+2023-10-18 12:17:13.671 INFO  [main][LicenseManager:-1] DXP Development license validation passed
+2023-10-18 12:17:14.768 INFO  [main][AutoDeployDir:176] Auto deploy scanner started for D:\liferay_74\liferay-dxp-7.4.13.u52\deploy
+2023-10-18 12:17:28.782 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2023-10-18 12:17:28.941 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for dialect-theme is available for use
+2023-10-18 12:17:29.217 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for minium-theme is available for use
+2023-10-18 12:17:29.398 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for speedwell-theme is available for use
+2023-10-18 12:17:29.557 INFO  [com.liferay.portal.osgi.web.wab.extender.internal.WabFactory-BundleTrackerOpener][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2023-10-18 12:56:38.960 INFO  [Thread-7][ThemeHotDeployListener:171] 1 theme for dialect-theme was unregistered
+2023-10-18 12:56:39.088 INFO  [Thread-7][ThemeHotDeployListener:171] 1 theme for admin-theme was unregistered
+2023-10-18 12:56:39.295 INFO  [Thread-7][ThemeHotDeployListener:171] 1 theme for classic-theme was unregistered
+2023-10-18 12:56:40.523 INFO  [Thread-7][ThemeHotDeployListener:171] 1 theme for speedwell-theme was unregistered
+2023-10-18 12:56:41.094 INFO  [Thread-7][ThemeHotDeployListener:171] 1 theme for minium-theme was unregistered

@@ -1,0 +1,143 @@
+2023-10-18 10:27:53.608 INFO  [main][SystemCheckOSGiCommands:61] System check is enabled. You can run a system check with the command "system:check" in Gogo shell.
+2023-10-18 10:32:36.300 WARN  [liferay/mail-3][MailMessageListener:140] Email test@liferay.com will be ignored because it is included in mail.send.blacklist
+2023-10-18 10:32:36.305 WARN  [liferay/mail-3][MailMessageListener:53] Skipping email because the sender is not specified
+2023-10-18 10:33:03.101 INFO  [main][UpgradeProcess:127] Upgrading com.liferay.content.dashboard.document.library.internal.upgrade.registry.v_1_17.AssetVocabularyUpgradeProcess
+2023-10-18 10:33:03.184 INFO  [main][UpgradeProcess:145] Completed upgrade process com.liferay.content.dashboard.document.library.internal.upgrade.registry.v_1_17.AssetVocabularyUpgradeProcess in 85 ms
+2023-10-18 10:33:49.394 INFO  [main][SystemCheckOSGiCommands:61] System check is enabled. You can run a system check with the command "system:check" in Gogo shell.
+2023-10-18 10:35:29.153 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:390] Initializing com.liferay.site.initializer.welcome for group 20121
+2023-10-18 10:35:29.157 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 416 took 2 ms
+2023-10-18 10:35:29.159 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4067] Invoking line 419 in 0 ms
+2023-10-18 10:35:29.160 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 421 took 1 ms
+2023-10-18 10:35:29.161 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4067] Invoking line 424 in 1 ms
+2023-10-18 10:35:29.723 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4067] Invoking line 427 in 560 ms
+2023-10-18 10:35:29.724 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 431 took 0 ms
+2023-10-18 10:35:29.725 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 436 took 0 ms
+2023-10-18 10:35:29.727 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 437 took 0 ms
+2023-10-18 10:35:29.728 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 438 took 1 ms
+2023-10-18 10:35:29.729 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4067] Invoking line 441 in 1 ms
+2023-10-18 10:35:29.730 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 443 took 1 ms
+2023-10-18 10:35:29.731 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 444 took 0 ms
+2023-10-18 10:35:29.732 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 445 took 0 ms
+2023-10-18 10:35:29.733 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 446 took 0 ms
+2023-10-18 10:35:29.735 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4067] Invoking line 449 in 1 ms
+2023-10-18 10:35:29.737 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 453 took 0 ms
+2023-10-18 10:35:29.749 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 454 took 11 ms
+2023-10-18 10:35:29.750 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 458 took 0 ms
+2023-10-18 10:35:29.752 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 461 took 1 ms
+2023-10-18 10:35:29.897 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4067] Invoking line 467 in 144 ms
+2023-10-18 10:35:29.899 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4067] Invoking line 471 in 2 ms
+2023-10-18 10:35:29.902 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4067] Invoking line 475 in 0 ms
+2023-10-18 10:35:29.904 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 482 took 0 ms
+2023-10-18 10:35:29.908 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 487 took 0 ms
+2023-10-18 10:35:29.911 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 494 took 1 ms
+2023-10-18 10:35:29.913 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 499 took 0 ms
+2023-10-18 10:35:29.916 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4067] Invoking line 507 in 1 ms
+2023-10-18 10:35:30.157 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 511 took 237 ms
+2023-10-18 10:35:30.160 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 522 took 1 ms
+2023-10-18 10:35:30.162 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 532 took 0 ms
+2023-10-18 10:35:30.164 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:4048] Invoking line 534 took 0 ms
+2023-10-18 10:35:30.166 INFO  [Portal Dependency Manager Component Executor--1][BundleSiteInitializer:543] Initialized com.liferay.site.initializer.welcome for group 20121 in 1012 ms
+2023-10-18 10:53:01.008 WARN  [liferay/mail-2][MailMessageListener:140] Email test@liferay.com will be ignored because it is included in mail.send.blacklist
+2023-10-18 10:53:01.008 WARN  [liferay/mail-2][MailMessageListener:53] Skipping email because the sender is not specified
+2023-10-18 12:17:18.199 INFO  [main][SystemCheckOSGiCommands:61] System check is enabled. You can run a system check with the command "system:check" in Gogo shell.
+2023-10-18 12:18:07.068 ERROR [http-nio-8080-exec-1][VirtualHostFilter:381] null
+org.apache.catalina.connector.ClientAbortException: java.io.IOException: An established connection was aborted by the software in your host machine
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:353) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.connector.OutputBuffer.appendByteArray(OutputBuffer.java:754) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.connector.OutputBuffer.append(OutputBuffer.java:683) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.connector.OutputBuffer.writeBytes(OutputBuffer.java:388) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.connector.OutputBuffer.write(OutputBuffer.java:366) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.connector.CoyoteOutputStream.write(CoyoteOutputStream.java:96) ~[catalina.jar:9.0.65]
+	at com.liferay.portal.kernel.internal.servlet.RestrictedByteArrayCacheOutputStream.flush(RestrictedByteArrayCacheOutputStream.java:66) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.RestrictedByteBufferCacheServletResponse.flushCache(RestrictedByteBufferCacheServletResponse.java:46) ~[portal-kernel.jar:?]
+	at com.liferay.portal.servlet.filters.etag.ETagFilter._postProcessETag(ETagFilter.java:122) ~[portal-impl.jar:?]
+	at com.liferay.portal.servlet.filters.etag.ETagFilter.processFilter(ETagFilter.java:102) ~[portal-impl.jar:?]
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:215) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:147) ~[portal-kernel.jar:?]
+	at com.liferay.portal.servlet.filters.autologin.AutoLoginFilter.processFilter(AutoLoginFilter.java:262) ~[portal-impl.jar:?]
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:215) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:147) ~[portal-kernel.jar:?]
+	at com.liferay.portal.monitoring.internal.servlet.filter.MonitoringFilter.processFilter(MonitoringFilter.java:139) ~[?:?]
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:215) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116) ~[portal-kernel.jar:?]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) ~[?:?]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) ~[?:?]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) ~[?:?]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) ~[?:?]
+	at com.liferay.portal.url.rewrite.filter.internal.URLRewriteFilter.processFilter(URLRewriteFilter.java:99) ~[?:?]
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:215) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116) ~[portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:104) ~[portal-kernel.jar:?]
+	at com.liferay.shielded.container.internal.proxy.FilterWrapper.doFilter(FilterWrapper.java:79) ~[com.liferay.shielded.container.impl.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:711) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:459) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:385) ~[catalina.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:313) ~[catalina.jar:9.0.65]
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:378) [portal-impl.jar:?]
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:215) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:196) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:99) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:196) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:99) [portal-kernel.jar:?]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176) [urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145) [urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92) [urlrewritefilter-4.0.4.jar:4.0.4]
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389) [urlrewritefilter-4.0.4.jar:4.0.4]
+	at com.liferay.portal.url.rewrite.filter.internal.URLRewriteFilter.processFilter(URLRewriteFilter.java:99) [bundleFile:?]
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:215) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:116) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:175) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:99) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:175) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:99) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:196) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:99) [portal-kernel.jar:?]
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:104) [portal-kernel.jar:?]
+	at com.liferay.shielded.container.internal.proxy.FilterWrapper.doFilter(FilterWrapper.java:79) [com.liferay.shielded.container.impl.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.65]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.65]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) [catalina.jar:9.0.65]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.65]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.65]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.65]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.65]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.65]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.65]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.65]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.65]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:890) [tomcat-coyote.jar:9.0.65]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1789) [tomcat-coyote.jar:9.0.65]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.65]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.65]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.65]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.65]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+Caused by: java.io.IOException: An established connection was aborted by the software in your host machine
+	at sun.nio.ch.SocketDispatcher.write0(Native Method) ~[?:?]
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51) ~[?:?]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:113) ~[?:?]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:79) ~[?:?]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:50) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:466) ~[?:?]
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:135) ~[tomcat-coyote.jar:9.0.65]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1424) ~[tomcat-coyote.jar:9.0.65]
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:768) ~[tomcat-coyote.jar:9.0.65]
+	at org.apache.tomcat.util.net.SocketWrapperBase.writeBlocking(SocketWrapperBase.java:593) ~[tomcat-coyote.jar:9.0.65]
+	at org.apache.tomcat.util.net.SocketWrapperBase.write(SocketWrapperBase.java:537) ~[tomcat-coyote.jar:9.0.65]
+	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.doWrite(Http11OutputBuffer.java:547) ~[tomcat-coyote.jar:9.0.65]
+	at org.apache.coyote.http11.filters.IdentityOutputFilter.doWrite(IdentityOutputFilter.java:73) ~[tomcat-coyote.jar:9.0.65]
+	at org.apache.coyote.http11.Http11OutputBuffer.doWrite(Http11OutputBuffer.java:194) ~[tomcat-coyote.jar:9.0.65]
+	at org.apache.coyote.Response.doWrite(Response.java:615) ~[tomcat-coyote.jar:9.0.65]
+	at org.apache.catalina.connector.OutputBuffer.realWriteBytes(OutputBuffer.java:340) ~[catalina.jar:9.0.65]
+	... 80 more
